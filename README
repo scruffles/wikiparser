@@ -1,1 +1,6 @@
-new text
+This project is a library for translating wiki text into html. The
+wiki text is based on TiddlyWiki's syntax.  I intend to release this
+under a BSD-style license.. just haven't gotten around to copy/pasting
+the license.
+
+Bryan Young
