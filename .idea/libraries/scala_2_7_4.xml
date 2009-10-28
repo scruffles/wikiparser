@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="scala-2.7.4">
+    <CLASSES>
+      <root url="file:///Applications/scala-2.7.3/lib" />
+      <root url="jar:///Applications/scala-2.7.3/misc/sbaz/scala-library.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar:///Applications/scala-2.7.3/misc/sbaz/scala-library.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/sbaz-tests.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/scala-library.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/sbaz.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/scala-dbc.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/scala-swing.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/scalatest-0.9.5.jar!/" />
+      <root url="jar:///Applications/scala-2.7.3/lib/scala-compiler.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file:///Applications/scala-2.7.3/lib" recursive="false" />
+  </library>
+</component>
